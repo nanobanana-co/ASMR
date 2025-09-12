@@ -1,7 +1,7 @@
 
 # AI [ASMR](https://asmrvideo.ai): Decoding User Intent AI ASMR
 
-![0826-封面](https://github.com/user-attachments/assets/d42e13d1-e04a-4c93-aced-ca68b781e4b3)
+[![0826-封面](https://github.com/user-attachments/assets/d42e13d1-e04a-4c93-aced-ca68b781e4b3)](https://youtu.be/DR2lgxNa5cs?si=yHwV0DwCmfJSnNXZ)
 
 
 ## Introduction
