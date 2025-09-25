@@ -137,7 +137,8 @@ We’re building toward:
 - Direct integration with YouTube, Twitter, TikTok.
 
 
-https://github.com/user-attachments/assets/7f64d6e2-1513-4ee8-9393-535825812384
+
+https://github.com/user-attachments/assets/4231d6d8-c2a7-40b4-a23d-877590e5f606
 
 ---
 
